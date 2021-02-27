@@ -9,8 +9,11 @@ of decimal places, columns were aligned and spaced evenly, and blank spaces cont
 The file naming convention for this dataset uses camelCase, no spacing, and indication of what type of document it is:
 
 municipalRecycling_Data_Raw
+
 municipalRecycling_Data_Normal
+
 municipalRecycling_Data_Dictionary
+
 whinihanErika_Curation_Protocol_030821
 
 A data dictionary is included as an .xlsx file that provides further information on the variable constraints, description, and content.
