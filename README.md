@@ -17,3 +17,6 @@ whinihanErika_Curation_Protocol_030821
 A data dictionary is included as an .xlsx file that provides further information on the variable constraints, description, and content.
 
 The curation protocol document is a PDF file and provides an abstract/background and analysis on this dataset, the data collection process/sources, metadata schema, and personal reflection.
+
+# naming
+Naming for the files should be as follows:
