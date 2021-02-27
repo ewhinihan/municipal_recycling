@@ -1,4 +1,4 @@
-# municipal_recycling
+# Readme
 This dataset and documentation provides an analysis on the recycling amounts, cost, and effectiveness for the recycling programs of Seattle, WA, Portland, OR, and Los Angeles, CA. This data curation protocol was created for a Data Curation course at the iSchool at the University of Washington during the Winter Quarter of 2021. 
 The intended audience for this dataset are citizens who would like to be better informed about recycling effectiveness. It is freely available to the public.
 
@@ -18,5 +18,6 @@ A data dictionary is included as an .xlsx file that provides further information
 
 The curation protocol document is a PDF file and provides an abstract/background and analysis on this dataset, the data collection process/sources, metadata schema, and personal reflection.
 
-# naming
-Naming for the files should be as follows:
+# Contact
+Erika Whinihan: erikaw9@uw.edu
+MLIS student, Information School, University of Washington
