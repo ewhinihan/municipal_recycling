@@ -26,9 +26,13 @@ spaced evenly, and blank spaces contained "NA".
 The file naming convention for this dataset uses camelCase, no spacing, project title, and indication of what type of document it is:
 
 municipalRecycling_Data_Raw
+
 municipalRecycling_Data_Normal
+
 municipalRecycling_Data_Dictionary
+
 whinihanErika_Curation_Protocol_030321
+
 README.md
 
 A data dictionary is included as an .xlsx file that provides further information on the variable constraints, description, and content.
