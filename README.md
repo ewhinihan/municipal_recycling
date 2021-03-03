@@ -3,6 +3,7 @@
 Title of Dataset: Municipal Recycling Program Comparison
 
 Author Information:
+	
 	Name: Erika Whinihan
 	
 	Institution: Information School, University of Washington
@@ -23,7 +24,12 @@ The raw dataset is available in both .csv and .xlsx formats. The normalized data
 A standard data normalizing convention was used to normalize the data to ensure numbers had the same number of decimal places, columns were aligned and 
 spaced evenly, and blank spaces contained "NA".
 
-# naming 
+A data dictionary is included as an .xlsx file that provides further information on the variable constraints, description, and content.
+
+The curation protocol document is a PDF file and provides an abstract/background and analysis on this dataset, the data collection process, sources, 
+metadata schema, and personal reflection.
+
+# Naming 
 The file naming convention for this dataset uses camelCase, no spacing, project title, and indication of what type of document it is:
 
 municipalRecycling_Data_Raw
@@ -35,11 +41,3 @@ municipalRecycling_Data_Dictionary
 whinihanErika_Curation_Protocol_030321
 
 README.md
-
-A data dictionary is included as an .xlsx file that provides further information on the variable constraints, description, and content.
-
-The curation protocol document is a PDF file and provides an abstract/background and analysis on this dataset, the data collection process, sources, 
-metadata schema, and personal reflection.
-
-# contact
-Erika Whinihan | erikaw9@uw.edu
