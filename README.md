@@ -21,8 +21,9 @@ and Los Angeles, CA. The intended audience for this dataset are citizens who wou
 It is freely available to the public.
 
 The raw dataset is available in both .csv and .xlsx formats. The normalized dataset is in .xlsx file format.
-A standard data normalizing convention was used to normalize the data to ensure numbers had the same number of decimal places, columns were aligned and 
-spaced evenly, and blank spaces contained "NA".
+A standard data normalization method was used to normalize the data that included parsing, standardization, cleaning, and enrichment. Rows and columns were 
+aligned and formatted, numbers were made consistent using the same number of decimal places and "NA" when needed, and additional data was added to enhance
+the data accessibility (population and area).
 
 A data dictionary is included as an .xlsx file that provides further information on the variable constraints, description, and content.
 
