@@ -4,8 +4,11 @@ Title of Dataset: Municipal Recycling Program Comparison
 
 Author Information:
 	Name: Erika Whinihan
+	
 	Institution: Information School, University of Washington
+	
 	Course: LIS 545 - Data Curation, Winter Quarter 2021
+	
 	Email: erikaw9@uw.edu
 
 Date of data collection: February 2021
