@@ -41,3 +41,5 @@ municipalRecycling_Data_Dictionary
 whinihanErika_Curation_Protocol_030321
 
 README.md
+
+Additional municipal data can be added to the raw and normal files per the guidelines in the data dictionary. No additional files should need to be created.
